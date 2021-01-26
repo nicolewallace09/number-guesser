@@ -29,6 +29,6 @@ const updateScore = winner => {
 }
 
 // increase the round number 
-const advancedRound = () => {
+const advanceRound = () => {
     currentRoundNumber++; 
 }
